@@ -22,13 +22,13 @@
     "relying party",
     "strategy"
   ],
-  "homepage": "https://github.com/panva/node-openid-client",
-  "repository": "panva/node-openid-client",
+  "homepage": "https://github.com/ether/node-openid-client",
+  "repository": "ether/node-openid-client",
   "funding": {
-    "url": "https://github.com/sponsors/panva"
+    "url": "https://github.com/ether/node-openid-client"
   },
   "license": "MIT",
-  "author": "Filip Skokan <panva.ip@gmail.com>",
+  "author": "ether Team",
   "exports": {
     "types": "./types/index.d.ts",
     "import": "./lib/index.mjs",
