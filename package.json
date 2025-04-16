@@ -1,6 +1,6 @@
 {
   "name": "@etherpad/node-openid-client",
-  "version": "5.6.5",
+  "version": "6.0.0",
   "description": "OpenID Connect Relying Party (RP, Client) implementation for Node.js runtime, supports passportjs",
   "keywords": [
     "auth",
