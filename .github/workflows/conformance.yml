@@ -125,7 +125,7 @@ jobs:
       - run: npm run test
         working-directory: ./runner
       - name: Upload test artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           path: |
             runner/export-*.zip
